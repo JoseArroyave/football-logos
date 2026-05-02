@@ -1,10 +1,10 @@
 # Football Logos Repository
 
-A free, public repository containing **2,000+ football team logos** in SVG format, organized by country and league.
+A free, public repository containing **2,000+ football team logos** in SVG format, organized by country.
 
 ## Usage
 
-Browse by country folder to find the team logo you need. Each folder contains SVG files named after the club or league.
+Browse by country folder to find the team logo you need. Each folder contains SVG files named after the club.
 
 ### England
 
