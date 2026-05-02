@@ -223,6 +223,24 @@ To find the Arsenal logo:
 england/Arsenal.svg
 ```
 
+## Direct Usage
+
+You can use logos directly from GitHub using the raw URL format:
+
+```
+https://raw.githubusercontent.com/JoseArroyave/football-logos/refs/heads/main/{country}/{logo_filename}
+```
+
+### Example
+
+```html
+<img src="https://raw.githubusercontent.com/JoseArroyave/football-logos/refs/heads/main/england/Leicester.svg" alt="Leicester Logo" />
+```
+
+Output:
+
+![Leicester](https://raw.githubusercontent.com/JoseArroyave/football-logos/refs/heads/main/england/Leicester.svg)
+
 ## Contributing
 
 This repository is maintained automatically. Logo files are sourced from public APIs and organized into this structure.
