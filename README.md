@@ -27,7 +27,7 @@ Browse by country folder to find the team logo you need. Each folder contains SV
 To find the Arsenal logo:
 
 ```
-england/Arsenal.svg
+/logos/england/Arsenal.svg
 ```
 
 ## Direct Usage
