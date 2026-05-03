@@ -1,6 +1,6 @@
 # Football Logos Repository
 
-A free, public repository containing **2,000+ football team logos** in SVG format, organized by country.
+A free, public repository containing **2.800+ football team logos** in SVG format, organized by country.
 
 ## Usage
 
